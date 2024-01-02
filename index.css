@@ -1,0 +1,11 @@
+.container {
+    height: auto;
+    width: 50vw;
+    border: 10px solid black; /* Set the border to 20px width and solid black color */
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    background-color: aqua;
+  }
+ 
